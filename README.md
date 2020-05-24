@@ -20,7 +20,7 @@ Javascript (Nodejs), también utilizando un servicio de hosting de base datos en
 
 *Se creo una sección que ya una vez habiendote dado de alta de manera exitosa dentro de la webapp, ahora visualizaremos que nuestro registro dentro de ésta, siempre y cuando se llene correctamente los siguientes campos:*
 
-* Usuario
-* Contraseña
+* Usuario.
+* Contraseña.
 
 
