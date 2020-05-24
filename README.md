@@ -5,7 +5,7 @@ Javascript (Nodejs), también utilizando un servicio de hosting de base datos en
 
 ***
 
-##Register
+## Register
 
 *Se creo una sección para poder dar de alta un usuario dentro de ésta pequeña webapp. Y como requisito se solicitarán los siguientes campos a llevar de manera correcta para poder darse de alta:*
 
